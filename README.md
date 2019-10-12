@@ -2,7 +2,7 @@
 A list of virtual machines (VM) used for teaching and training
 
 ## Security
-* [Commando](https://github.com/fireeye/commando-vm): a Windows-based distribution for penetration testing.
+* [Commando](https://github.com/fireeye/commando-vm): a Windows-based distribution created by FireEye for penetration testing.
 * [Kali Linux](https://www.osboxes.org/kali-linux/): Kali Linux comes with a set of tools for digital forensics and penetration testing.
 * [ParrotOS](https://www.osboxes.org/parrot-security-os/): ParrotOS is an alternative to Kali Linux. 
 * [REMux](https://remnux.org/): REMux is a toolkit for reverse-engineering and analyzing malware.
