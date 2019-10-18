@@ -2,11 +2,13 @@
 A list of virtual machines (VM) used for teaching and training
 
 ## Security
-* [Commando](https://github.com/fireeye/commando-vm): a Windows-based distribution created by FireEye for penetration testing.
-* [Kali Linux](https://www.osboxes.org/kali-linux/): Kali Linux comes with a set of tools for digital forensics and penetration testing.
-* [ParrotOS](https://www.osboxes.org/parrot-security-os/): ParrotOS is an alternative to Kali Linux. 
-* [REMnux](https://remnux.org/): REMnux is a toolkit for reverse-engineering and analyzing malware.
-* [SOF-ELK](https://github.com/philhagen/sof-elk): This Security Operations and Forensics VM was created by Phil Hagen to teach SANS 572. It is also a community resource to learn how to use the ELK stack (Elasticsearch, Logstash, Kibana).  
+| Preview     | Description     |
+|------------|------------------|
+| <img src="https://github.com/j-chat/virtual_machines_list/blob/master/commando.png" width="250"> | [Commando](https://github.com/fireeye/commando-vm): a Windows-based distribution created by FireEye for penetration testing. |
+| <img src="https://github.com/j-chat/virtual_machines_list/blob/master/kali_linux.jpg" width="250"> | [Kali Linux](https://www.osboxes.org/kali-linux/): Kali Linux comes with a set of tools for digital forensics and penetration testing. |
+| <img src="https://github.com/j-chat/virtual_machines_list/blob/master/parrot_os.png" width="250"> | [ParrotOS](https://www.osboxes.org/parrot-security-os/): ParrotOS is an alternative to Kali Linux.  |
+| <img src="" width="250"> | [REMnux](https://remnux.org/): REMnux is a toolkit for reverse-engineering and analyzing malware.  |
+| <img src="" width="250"> | [SOF-ELK](https://github.com/philhagen/sof-elk): This Security Operations and Forensics VM was created by Phil Hagen to teach SANS 572. It is also a community resource to learn how to use the ELK stack (Elasticsearch, Logstash, Kibana).   | 
 
 ## Data Science
 * [Griffon Data Science Virtual Machine](https://github.com/gtkcyber/griffon-vm): This VM was created by Charles S. Givre to make it easier to teach data science with a pre-built environment. 
