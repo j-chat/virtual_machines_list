@@ -10,6 +10,7 @@ A list of virtual machines (VM) used for teaching and training
 | <img src="https://github.com/j-chat/virtual_machines_list/blob/master/parrot_os.png" width="250"> | [ParrotOS](https://www.osboxes.org/parrot-security-os/): ParrotOS is an alternative to Kali Linux.  |
 | <img src="https://github.com/j-chat/virtual_machines_list/blob/master/remnux.png" width="250"> | [REMnux](https://remnux.org/): REMnux is a Linux toolkit for reverse-engineering and analyzing malware.  |
 | <img src="https://github.com/j-chat/virtual_machines_list/blob/master/sof-elk.png" width="250"> | [SOF-ELK](https://github.com/philhagen/sof-elk): This Security Operations and Forensics VM was created by Phil Hagen to teach SANS 572. It is also a community resource to learn how to use the ELK stack (Elasticsearch, Logstash, Kibana).   | 
+|  | [ThreatPursuit](https://github.com/fireeye/ThreatPursuit-VM): This a pre-configured virtual machine created by FireEye and comes with more than 50 software programs that are commonly used by threat intel analysts).   | 
 
 ## Data Science
 * [Griffon Data Science Virtual Machine](https://github.com/gtkcyber/griffon-vm): This VM was created by Charles S. Givre to make it easier to teach data science with a pre-built environment. 
